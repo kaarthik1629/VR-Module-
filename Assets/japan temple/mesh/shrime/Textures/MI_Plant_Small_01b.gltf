@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "generator": "UnityGLTF",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "T_Plant_Small_01b_N.jpg",
+      "name": "T_Plant_Small_01b_N"
+    },
+    {
+      "uri": "T_Plant_Small_01b_D.png",
+      "name": "T_Plant_Small_01b_D"
+    },
+    {
+      "uri": "T_Plant_Small_01b_WindMask.jpg",
+      "name": "T_Plant_Small_01b_WindMask"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      },
+      "normalTexture": {
+        "index": 0
+      },
+      "occlusionTexture": {
+        "index": 2
+      },
+      "alphaMode": "MASK",
+      "alphaCutoff": 0.0,
+      "doubleSided": true,
+      "name": "MI_Plant_Small_01b",
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.498039246
+        }
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9987
+    },
+    {
+      "minFilter": 9987
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "T_Plant_Small_01b_N"
+    },
+    {
+      "sampler": 1,
+      "source": 1,
+      "name": "T_Plant_Small_01b_D"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "T_Plant_Small_01b_WindMask"
+    }
+  ]
+}

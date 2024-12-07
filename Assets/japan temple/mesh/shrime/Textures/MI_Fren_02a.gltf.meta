@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: aa15d3e605a44ba4cb97d93be00528d7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MI_Fren_02a_BaseColor
+    second: {fileID: 2800000, guid: 0ea886f4f5e77274ca4ad5d1a9cae106, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MI_Fren_02a_MetallicRoughness
+    second: {fileID: 2800000, guid: 4bad658a73848db4b8aab820b11b96f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MI_Fren_02a_Normal
+    second: {fileID: 2800000, guid: 8fbba7749eaa87f4ea993c6b8f14539e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Fren_02a_ORM
+    second: {fileID: 2800000, guid: 4bad658a73848db4b8aab820b11b96f7, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>UnityGLTF
+
+    <b>Version: </b>2.0
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 1556946743624592086, guid: aa15d3e605a44ba4cb97d93be00528d7, type: 3}
+  textures:
+  - {fileID: 4523979504391837383, guid: aa15d3e605a44ba4cb97d93be00528d7, type: 3}
+  - {fileID: 2800000, guid: 4bad658a73848db4b8aab820b11b96f7, type: 3}
+  - {fileID: -5200582111792391481, guid: aa15d3e605a44ba4cb97d93be00528d7, type: 3}
+  hasSceneData: 0
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_texture_transform
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: 4523979504391837383, guid: aa15d3e605a44ba4cb97d93be00528d7,
+      type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 4bad658a73848db4b8aab820b11b96f7, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 4bad658a73848db4b8aab820b11b96f7, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: 
+  _importPlugins: []

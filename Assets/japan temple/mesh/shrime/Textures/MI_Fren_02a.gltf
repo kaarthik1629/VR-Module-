@@ -1,0 +1,87 @@
+{
+  "asset": {
+    "generator": "UnityGLTF",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_texture_transform",
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "MI_Fren_02a_MetallicRoughness.jpg",
+      "name": "MI_Fren_02a_MetallicRoughness"
+    },
+    {
+      "uri": "MI_Fren_02a_BaseColor.png",
+      "name": "MI_Fren_02a_BaseColor"
+    },
+    {
+      "uri": "MI_Fren_02a_BaseColor.jpg",
+      "name": "MI_Fren_02a_BaseColor"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        }
+      },
+      "normalTexture": {
+        "scale": 0.0,
+        "index": 0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "alphaMode": "MASK",
+      "alphaCutoff": 0.33329999446868896,
+      "doubleSided": true,
+      "name": "MI_Fren_02a",
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.498039246
+        }
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9987
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "MI_Fren_02a_MetallicRoughness"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "MI_Fren_02a_BaseColor"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "MI_Fren_02a_BaseColor"
+    }
+  ]
+}

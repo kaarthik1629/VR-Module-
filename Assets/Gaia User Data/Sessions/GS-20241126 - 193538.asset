@@ -1,0 +1,1996 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20241126 - 193538
+  m_EditorClassIdentifier: 
+  m_name: Session 20241126-193538
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 26-11-2024 19:35:38
+  m_terrainWidth: 256
+  m_terrainDepth: 256
+  m_terrainHeight: 256
+  m_seaLevel: 22
+  m_spawnDensity: 0.65
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 26-11-2024 19:36:37
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 19:36:38
+    scriptableObjectAssetGUID: 426acd46e270b314eba7e0799c363211
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 19:39:26
+    scriptableObjectAssetGUID: 9368d4d73f3270e4a9153720d3b57659
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Mesa 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 19:59:03
+    scriptableObjectAssetGUID: 507e6a6e50716f84eae30a78891182de
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:05:53
+    scriptableObjectAssetGUID: 75f26afb25d1cfa47af66eb232536d32
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:06:38
+    scriptableObjectAssetGUID: 88a4f608f8c930f44bdc6125fa64685f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: LowerHeight - 2k Mesa 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:09:28
+    scriptableObjectAssetGUID: c5572c055009d7b4a821e58e7a45fd50
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:17:39
+    scriptableObjectAssetGUID: 10e5a3addfa00a74186ee9c7d5412b4d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:17:41
+    scriptableObjectAssetGUID: 2434aaed480f2cb4294bcc417723cb06
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:18:05
+    scriptableObjectAssetGUID: ed85870cdfd961a488f60a334d219ac7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: LowerHeight - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:22:36
+    scriptableObjectAssetGUID: e91f5e3b55c9f894ba53cbda2e1b67b3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: HeightTransform - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 26-11-2024 20:28:59
+    scriptableObjectAssetGUID: 4b6eb90b4479a1a47babb616f1d75ec4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 11:58:33
+    scriptableObjectAssetGUID: 377bed2faaac2894787d694ec99a6872
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 11:59:34
+    scriptableObjectAssetGUID: 5828f0633e618f445a2fee6e51d1b759
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:00:50
+    scriptableObjectAssetGUID: f95ed1886d621884daf163e4d70c1142
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:01:23
+    scriptableObjectAssetGUID: 187f378d244465e4e97c50ddbd0619ac
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:01:26
+    scriptableObjectAssetGUID: 1a7877470d15d9d43b8492eab36b8fba
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:01:35
+    scriptableObjectAssetGUID: 96975c3fbaf6b344dadae414916546d3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:06:36
+    scriptableObjectAssetGUID: c5b8f3832b6351d4a9ea8f6611b97cf8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:07:50
+    scriptableObjectAssetGUID: d7ad6c02fc3251941ba07a22b91b3906
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:09:16
+    scriptableObjectAssetGUID: 89702a82d17fa4540a817576aa8516d9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:09:42
+    scriptableObjectAssetGUID: 30012bd1b86a1fe4ea599aa534dcdc02
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing -, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:10:02
+    scriptableObjectAssetGUID: b3c76f3a8ca2325439ddbb72c4ec1b99
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:10:58
+    scriptableObjectAssetGUID: be38a30369693854e8d7717a48784abd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:14:09
+    scriptableObjectAssetGUID: 654dfd3fc1622cb4da90cc9a4e351075
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:16:44
+    scriptableObjectAssetGUID: 8fd337ceec8868b488e26c3d60a15aeb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:18:31
+    scriptableObjectAssetGUID: f51c3ac786ba08646bedbc22f06aeb99
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:20:20
+    scriptableObjectAssetGUID: 5f0e87d7c21484c4da7cea6494f9ede6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:31:37
+    scriptableObjectAssetGUID: a0487972c83ad9c4c86ff69b1118fec7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:31:52
+    scriptableObjectAssetGUID: 1c012a69c28a0e64b9a2a209ff105170
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:32:37
+    scriptableObjectAssetGUID: d8c5e297923c43e40aa68112df85a31e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:33:33
+    scriptableObjectAssetGUID: f6a11065c9df1834e9745e1d75d0d6dd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:35:25
+    scriptableObjectAssetGUID: 29b6a4497280ab3478e470900414f06a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:36:32
+    scriptableObjectAssetGUID: 3c185a1c20353a04c9287b1bd08977c4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:37:14
+    scriptableObjectAssetGUID: ea99a910c6ab8844591ae6d325e41945
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:38:18
+    scriptableObjectAssetGUID: 29603072500bee74881bff840fa36bf0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:38:52
+    scriptableObjectAssetGUID: 6dd3876998e2a3d49af309fbff4311d3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:41:31
+    scriptableObjectAssetGUID: 6e4761b4f327dd541a11ed7f7070249e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:42:18
+    scriptableObjectAssetGUID: 256e15473931c5d45aa3eeb1d33a01ce
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:45:01
+    scriptableObjectAssetGUID: 6a870dddcee8d154abba16684b667e3f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:45:34
+    scriptableObjectAssetGUID: 57a6715b168ac5c418868481d55873ef
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:46:13
+    scriptableObjectAssetGUID: f22030c39e63f6b4a8d6a88fa935ea59
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:46:51
+    scriptableObjectAssetGUID: 3665cb47edee2d84497e6e0ec9762cd0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 12:49:24
+    scriptableObjectAssetGUID: e201c4f60d59451419296faec4d55d26
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:15:53
+    scriptableObjectAssetGUID: d578280a14e817a448d0cf40801752cd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:21:06
+    scriptableObjectAssetGUID: ca97c5743ec10a64ea7a701abd47b21b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:22:53
+    scriptableObjectAssetGUID: d217ed1782d03dd46ba7522622bc407b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:22:55
+    scriptableObjectAssetGUID: 441f962c9a0eaa74990eb98457244f09
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:26:52
+    scriptableObjectAssetGUID: 7c450aa5c097857478a80b746bd3acc2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:27:00
+    scriptableObjectAssetGUID: 933f65f7d962aff4ca4212b277b63dc1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:27:02
+    scriptableObjectAssetGUID: b340874204311bd458c232b83cba0a5e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:27:46
+    scriptableObjectAssetGUID: 4aa7e1cc031821747a1dc0bdaa558742
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:29:21
+    scriptableObjectAssetGUID: 271568f2f9a330c4791cc7b996faa1d9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:29:49
+    scriptableObjectAssetGUID: b691db5691c1b1f41b6268bd214ce9e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:31:04
+    scriptableObjectAssetGUID: 2c509ba50fc8a1844aaef77bb74046d8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:31:48
+    scriptableObjectAssetGUID: 213699dd3dd1e984f958458f989d1857
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:31:50
+    scriptableObjectAssetGUID: 333dd53fc3ef24a45b705d0c5fde1d0a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:32:12
+    scriptableObjectAssetGUID: f9493cdf3408806468aca8200207129d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:33:00
+    scriptableObjectAssetGUID: 875a781cb47f6b749b958c7dac1d080a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:34:06
+    scriptableObjectAssetGUID: 4dae5f7f0a15be444a0b7165e4a9817f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:34:34
+    scriptableObjectAssetGUID: d3f88b532b8b8cf4499ada6b1669ba15
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:34:53
+    scriptableObjectAssetGUID: 67e4e8e45b0d03541b0db7cc8f2afb68
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:36:43
+    scriptableObjectAssetGUID: 44f78b5b7f539384ab7a62bf47008821
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:38:47
+    scriptableObjectAssetGUID: e08b70d11486f494496efd726b4a35d2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:38:49
+    scriptableObjectAssetGUID: 36d751f03ff57e941acad37c565f0c99
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:48:19
+    scriptableObjectAssetGUID: e1e2ab1938645664e8bf2e6a67397c6b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:54:46
+    scriptableObjectAssetGUID: 10092cba1c2dde547addeb45337ea84c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:55:42
+    scriptableObjectAssetGUID: cf770d2b7cc46d94da7475851a84d4e6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:55:47
+    scriptableObjectAssetGUID: 2aea39a621c7d1d448c40b3b03d0c300
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:56:21
+    scriptableObjectAssetGUID: 4d68e75f149d3e344a87c2330d48f270
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:58:02
+    scriptableObjectAssetGUID: 2323318362815d744b19d387d1352ce4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 13:59:29
+    scriptableObjectAssetGUID: f399a55ec4db9c447b0c7d973b3a6cd0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 14:00:25
+    scriptableObjectAssetGUID: ce751f48ad9c32c45bb5120cd161e264
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 14:03:38
+    scriptableObjectAssetGUID: df7596339e0242e4d80af1decf1a9805
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 16:57:29
+    scriptableObjectAssetGUID: 4262f42fef37aba468c6ad12c532fc6f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:00:20
+    scriptableObjectAssetGUID: 3c1744c011d879743a8badcd343d0c6e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:01:37
+    scriptableObjectAssetGUID: f3e0b331c9f42ed42b8059291cf59b60
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:03:06
+    scriptableObjectAssetGUID: 6141c84c4d44cf147801a39d33df0ee1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:05:09
+    scriptableObjectAssetGUID: af7120cf4ce58a643afc31454e06a5d9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:06:31
+    scriptableObjectAssetGUID: 875ca665cbd095a43baed9b507cc3049
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:07:15
+    scriptableObjectAssetGUID: 79c15888bf8e50941b7c9388e3f5483b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:07:49
+    scriptableObjectAssetGUID: 0fe483a7810d0a0478a22ee645a12e20
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:08:32
+    scriptableObjectAssetGUID: 5ac4386af78e5a64bb71f07420076325
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:09:01
+    scriptableObjectAssetGUID: 9105636d4abf07b40a7af77ae74a84a2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:09:28
+    scriptableObjectAssetGUID: 054d519f67a4eb44ca97c7e754c45da1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:09:48
+    scriptableObjectAssetGUID: 5b62ce43047c6cb4b88baed3e66a6450
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:12:29
+    scriptableObjectAssetGUID: 669fef7f0f9a5e2448a226e52cbe401d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:13:10
+    scriptableObjectAssetGUID: fd878866e0a3a6d4ebfff27fc765380c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:19:47
+    scriptableObjectAssetGUID: cfe82bf0352f5b245b758c4745695979
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:20:26
+    scriptableObjectAssetGUID: 9f7f0a2a318dea643a6af7d632c5e7bb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:20:28
+    scriptableObjectAssetGUID: 6405af3ee29395b4eb4031baa60703ec
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:21:05
+    scriptableObjectAssetGUID: 61fc06b2a876b834cb31bbb4cf0d9f5e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:22:01
+    scriptableObjectAssetGUID: 6836bfc0a5ecbba4fa70f841104160e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:22:10
+    scriptableObjectAssetGUID: 40b3e81852517b24999a33b0b80e3a30
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:22:33
+    scriptableObjectAssetGUID: e1e4e0953e0a9b94292fc192e80bf6e5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:24:12
+    scriptableObjectAssetGUID: a454d7d0c7d1e644ba68085942313b23
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:24:39
+    scriptableObjectAssetGUID: eafd9711155af1e48aac6742a6eec68c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 17:25:32
+    scriptableObjectAssetGUID: ef59bdcfdc1d5664b9ffd6ef1a4cf0ad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:00:09
+    scriptableObjectAssetGUID: 543038531e2c0084eaea47b5f5cc1ae2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:00:13
+    scriptableObjectAssetGUID: d54ea7fded2e92546a031392cdda6fdc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:02:10
+    scriptableObjectAssetGUID: 40f284e770c1c7a45b93ec4af3dd8e50
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:06:46
+    scriptableObjectAssetGUID: 385a0e95cdb655a48a262f1a1cbf1ace
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:19:57
+    scriptableObjectAssetGUID: 00ceda88978e8b543aa75544b733ead8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:22:31
+    scriptableObjectAssetGUID: ef84d91465683034fa2226cd34a3352d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:22:40
+    scriptableObjectAssetGUID: 1bed00e4eea1a0a4588b2a5ba053b4e9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:23:36
+    scriptableObjectAssetGUID: 8e9f00b6247ac2b4dbf1ebba65ef8a57
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:25:22
+    scriptableObjectAssetGUID: c65ec367aba0ae440aed6e289b7a1e96
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:25:25
+    scriptableObjectAssetGUID: c621c38121d3d4043bc56a036dbdeaf0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:25:34
+    scriptableObjectAssetGUID: 103d270a2bb2c154cbf61b687a880c77
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:26:10
+    scriptableObjectAssetGUID: a2206b23aaf281c4ba1d9fd1b4b92eb1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:26:43
+    scriptableObjectAssetGUID: 9fbca21779ff79344879f84dc085ab3c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:27:18
+    scriptableObjectAssetGUID: 96c448a63ff726249a3e1254cf7a8193
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:27:52
+    scriptableObjectAssetGUID: 07836a5a18d08454bac33e3169a1b6a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:29:49
+    scriptableObjectAssetGUID: 87c2638e929f361478b4e45ab269e4d3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:30:30
+    scriptableObjectAssetGUID: bb7e4aa1cd9b9e0499421c5894386009
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:31:33
+    scriptableObjectAssetGUID: c7d0f516123a3744abc80c173d23f938
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:31:46
+    scriptableObjectAssetGUID: 5f8dc532e076a424c9cdbc641aff24ab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:32:14
+    scriptableObjectAssetGUID: 9a0876f9586c1a6489cf841d2f290c10
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:34:48
+    scriptableObjectAssetGUID: c04a48e33ddb88e4396e517ef34bfc19
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:36:22
+    scriptableObjectAssetGUID: 6abe92e58bfe84541a8ef06510ef912a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:36:28
+    scriptableObjectAssetGUID: 9e39dae109509ac42a65fd17c72a0909
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:36:32
+    scriptableObjectAssetGUID: 993e5dc78466a6a40b5c8a0e9c555ab5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:40:33
+    scriptableObjectAssetGUID: 94f0a1382a7606f48be37783a8e7b812
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:41:04
+    scriptableObjectAssetGUID: aaaa2aedd645408429cb075fc1af0389
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:41:44
+    scriptableObjectAssetGUID: e6017b460d94d11468e07792a62534f2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:43:15
+    scriptableObjectAssetGUID: 18f7fceb778946a4eb3d5666cb1a97b7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:44:49
+    scriptableObjectAssetGUID: be27a28b10367f84eb8e8c77118a9279
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:45:27
+    scriptableObjectAssetGUID: 7a050c4929b80184cb7999d8e44eb428
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:47:31
+    scriptableObjectAssetGUID: 314ec8d43dee630418571747cfa8d24c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:47:39
+    scriptableObjectAssetGUID: 72e1ab1d2a7295149b1489dcc4ceb0c6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:50:15
+    scriptableObjectAssetGUID: 7f58d89fdfda79741aadee305ea9446d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 18:57:33
+    scriptableObjectAssetGUID: 7fdfe1e96d046c84998f5f2dbc1f9ade
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:01:48
+    scriptableObjectAssetGUID: b2a307de9a89e104fa46cd8805ddef6f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:05:32
+    scriptableObjectAssetGUID: de367cea8dc83d64db92a9e313a827ef
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:10:44
+    scriptableObjectAssetGUID: 44a04a3483c3bdd49b07bb4fc81d37bf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:12:23
+    scriptableObjectAssetGUID: e6fb50c7a9f25964e91ec5dc8aeafc46
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:14:08
+    scriptableObjectAssetGUID: 07d883a16c757e04daa1a6ccc40bf51b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:15:42
+    scriptableObjectAssetGUID: cffcca78f4f28a84bb010e1616091df1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:17:41
+    scriptableObjectAssetGUID: ecd8cd69965faea4bb476d3a2443417c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 19:24:15
+    scriptableObjectAssetGUID: 04f818a15819da34bb980bea688fa344
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 4k Mountain 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:07:59
+    scriptableObjectAssetGUID: 815e8529aed6a8a4894e137e54ed2076
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 4k Mountain 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:08:52
+    scriptableObjectAssetGUID: 2c4c4ab0af7dcba448c2de9701bacf07
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 4k Mountain 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:09:02
+    scriptableObjectAssetGUID: e2df56b372cd1ab4bbab2208cd730378
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:11:08
+    scriptableObjectAssetGUID: fc96f50c86aece849b7b5c53b60b136f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:11:13
+    scriptableObjectAssetGUID: 2a4b9741225d076438a721df63c8a4e7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:11:26
+    scriptableObjectAssetGUID: 68b412493a8dbfc4fb86281dc920b90c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: AddHeight - 4k Mountain 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:12:03
+    scriptableObjectAssetGUID: db705879241f1f44e98fbe08bce2d61e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:12:18
+    scriptableObjectAssetGUID: 414e83f2ef2c8904aaa4738652d3d969
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:16:47
+    scriptableObjectAssetGUID: f49950fbc625c994b96ded8c645397fd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: SetHeight - 2k Mountain 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 27-11-2024 20:17:23
+    scriptableObjectAssetGUID: a4932360469f394479c3602c5514f57d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:11:36
+    scriptableObjectAssetGUID: 7b46e224224ed004890981babdc799fe
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:15:57
+    scriptableObjectAssetGUID: 6ab0fc157e68b694897b150a88e5ed36
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:22:58
+    scriptableObjectAssetGUID: 05285494588853d4a8046769567f9a5e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:27:12
+    scriptableObjectAssetGUID: 8e4c448caf58f314eb7f8d6cf0d24672
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing -, CurrentTerrainOnly, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:31:11
+    scriptableObjectAssetGUID: 49c93c434cb385e47af5f706a56106d2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:31:20
+    scriptableObjectAssetGUID: 63b2abb872e4976478917751d9ea2e0f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:34:38
+    scriptableObjectAssetGUID: b83b25347a0f12948ac6e528498fccff
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:36:26
+    scriptableObjectAssetGUID: e2f940ed7579f6747a1f8df7879986cf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 05:38:07
+    scriptableObjectAssetGUID: 7da715fc07b43974595ae075e94c2e52
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 06:03:22
+    scriptableObjectAssetGUID: 164e35af9a9773841a28de743db3484f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 06:05:36
+    scriptableObjectAssetGUID: 1947984643f08ba4b82932022b058175
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 06:05:40
+    scriptableObjectAssetGUID: 332095c24492f984eaafecf44bc80034
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, CurrentTerrainOnly, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 06:05:48
+    scriptableObjectAssetGUID: 8f87edf4752acd541b9d34e4fa04e9f7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 06:07:16
+    scriptableObjectAssetGUID: f728b1390e91e164588de4e6b98e0c92
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:27:50
+    scriptableObjectAssetGUID: 66ae1fdc606391b4e92a05867a9a826c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:27:58
+    scriptableObjectAssetGUID: 7d54ae51d67c7954586cd1e9192e6218
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:28:04
+    scriptableObjectAssetGUID: 352df88f0550c1543acc83a8ade52a6c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:28:06
+    scriptableObjectAssetGUID: 3b980245467ed8b40afc40ce7771a189
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:28:09
+    scriptableObjectAssetGUID: 2801319beebb20748bb6b17280eb0f84
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: BlendHeight - 2k Plains 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 11:28:16
+    scriptableObjectAssetGUID: d19ddbf2f4ab96444b6e56e2caf34688
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 13:55:05
+    scriptableObjectAssetGUID: 55ba6d1b316e7394cb554cfb3ffce8bf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - GOs, CurrentTerrainOnly, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 13:55:54
+    scriptableObjectAssetGUID: 09d32dae6325d714fb1977ad62fce58b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 13:58:48
+    scriptableObjectAssetGUID: 900b172a3b1a1834abc6e270e2374aad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 13:58:52
+    scriptableObjectAssetGUID: 3411552b7c9c4d84ca380f63850a6f9d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 14:04:50
+    scriptableObjectAssetGUID: 0cc3a753ca16dd34f8111d095082c9f0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 14:05:05
+    scriptableObjectAssetGUID: c2620c6e4e4bf15469f0ea4c1141c752
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-11-2024 14:05:49
+    scriptableObjectAssetGUID: 0dcf2eb4e60b10c4faa034a4c1e95ab9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20241126 - 193637
+    m_operationDateTime: 28-11-2024 14:07:33
+    scriptableObjectAssetGUID: 3a383b9c38f6aca49ae2cc0458412d9c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 4736a62e0f45c8d4dac75b5112dd5163
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 60.766552
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}

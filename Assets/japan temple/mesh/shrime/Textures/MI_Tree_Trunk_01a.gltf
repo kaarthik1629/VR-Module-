@@ -1,0 +1,71 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"images": [
+		{
+			"uri": "MI_Tree_Trunk_01a_BaseColor.png"
+		},
+		{
+			"uri": "MI_Tree_Trunk_01a_MetallicRoughness.png"
+		},
+		{
+			"uri": "MI_Tree_Trunk_01a_Normal.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "MI_Tree_Trunk_01a",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 2
+			},
+			"extensions":
+			{
+				"KHR_materials_specular":
+				{
+					"specularFactor": 0.498039246
+				}
+			}
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"textures": [
+		{
+			"name": "MI_Tree_Trunk_01a_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "MI_Tree_Trunk_01a_MetallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "MI_Tree_Trunk_01a_Normal",
+			"sampler": 0,
+			"source": 2
+		}
+	],
+	"extensionsUsed": [
+		"KHR_materials_specular"
+	]
+}
